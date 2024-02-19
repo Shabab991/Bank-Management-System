@@ -1,5 +1,15 @@
 # Bank-Management-System
 
+The banking sector occupies a large part of the tertiary sector because which data maintained is too much by a single application. Using C language we can create an application that can manage the data of the Bank,  we use basic knowledge of C like string, array, structures, etc.
+
+The functionality of the Bank Management System Application is mentioned below:
+
+(i) Transfer Money to the Account
+(ii) Creation of Account
+(iii) Check Amount
+(iv) Login Functionality
+
+
 This article focuses on how to create a bank account system using C language and File handling in C.
 Approach:
 Let’s discuss the approach in detail, covering all the functions and their explanation in detail-
